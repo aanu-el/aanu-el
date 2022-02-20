@@ -9,8 +9,9 @@ I am a persistent goal-oriented individual. I enjoy learning new skills and work
 
 ## Skills and Experience
 - 💻 HTML / CSS / JS
-- [] LARAVEL / PHP
+- 👩‍💻 LARAVEL / PHP
 
+## Know more:
 - 🔭 I’m currently working on getting better at backend development. 
 - 🌱 I’m currently learning Laravel 
 - 📫 How to reach me: peaceaanu@gmail.com 
