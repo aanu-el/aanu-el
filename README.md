@@ -1,7 +1,8 @@
-### Hi there 👋, my name is Peace
-#### I do Backend Development. 
 
 ![My Banner](https://github.com/aanu-el/aanu-el/blob/main/banner.png)
+
+### Hi there 👋, my name is Peace
+#### I do Backend Development. 
 
 
 I am a persistent goal-oriented individual. I enjoy learning new skills and working with languages and frameworks like PHP and Laravel, as well as working in WordPress.
