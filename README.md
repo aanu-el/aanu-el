@@ -7,7 +7,11 @@
 
 I am a persistent goal-oriented individual. I enjoy learning new skills and working with languages and frameworks like PHP and Laravel, as well as working in WordPress.
 
-Skills: LARAVEL/ PHP / JS / HTML / CSS
+## Skills and Experience
+- 💻 HTML / CSS / JS
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg' alt='php' height='10'>]
+
+Skills: LARAVEL/ PHP / 
 
 - 🔭 I’m currently working on getting better at backend development. 
 - 🌱 I’m currently learning Laravel 
