@@ -11,7 +11,7 @@ My name is Peace. I'm a Software Engineer. I am a persistent goal-oriented indiv
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, Backend Enginneer or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1CyycS0XaKu5TPmZYFLGGYkr3pizIuT7R1ktKLdQ2OUg/edit?usp=sharing) and contact me by emailing peaceaanu@gmail.com.
 
 ---
