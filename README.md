@@ -12,7 +12,7 @@ My name is Peace. I'm a Software Engineer. I am a persistent goal-oriented indiv
 - 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, Backend Enginneer or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1xe24RSBWp5hpItlgziIyrUFhp9FAPBJH/view?usp=sharing) and contact me by emailing peaceaanu@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/10qD6UOFW4N-PBH71yyYJTTc1jOuVPlpp/view?usp=sharing) and contact me by emailing peaceaanu@gmail.com.
 
 ---
 
